@@ -1,0 +1,10 @@
+^C:\PROJECTS\LABS\LAB_6\TASK_3\CMAKELISTS.TXT
+setlocal
+C:\Programs\bin\cmake.exe -SC:/Projects/labs/lab_6/task_3 -BC:/Projects/labs/lab_6/task_3/build --check-stamp-file C:/Projects/labs/lab_6/task_3/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

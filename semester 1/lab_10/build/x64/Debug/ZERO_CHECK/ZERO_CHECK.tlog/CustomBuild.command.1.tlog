@@ -1,0 +1,10 @@
+^C:\PROJECTS\LABS\LAB_10\BUILD\CMAKEFILES\31ED40F290A389FE8F61241F3E7E8CA9\GENERATE.STAMP.RULE
+setlocal
+C:\Programs\bin\cmake.exe -SC:/Projects/labs/lab_10 -BC:/Projects/labs/lab_10/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Projects/labs/lab_10/build/example.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
