@@ -1,0 +1,10 @@
+^C:\GITHUB\C++_LABS\SEMESTER 2\LAB_2\TASK_3\CMAKELISTS.TXT
+setlocal
+C:\Programs\bin\cmake.exe "-SC:/GitHub/c++_labs/semester 2/lab_2/task_3" "-BC:/GitHub/c++_labs/semester 2/lab_2/task_3/build" --check-stamp-file "C:/GitHub/c++_labs/semester 2/lab_2/task_3/build/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

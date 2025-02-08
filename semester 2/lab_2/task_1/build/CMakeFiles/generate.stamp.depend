@@ -1,0 +1,25 @@
+# CMake generation dependency list for this directory.
+C:/GitHub/c++_labs/semester 2/lab_2/task_1/CMakeLists.txt
+C:/GitHub/c++_labs/semester 2/lab_2/task_1/build/CMakeFiles/3.30.4/CMakeCCompiler.cmake
+C:/GitHub/c++_labs/semester 2/lab_2/task_1/build/CMakeFiles/3.30.4/CMakeCXXCompiler.cmake
+C:/GitHub/c++_labs/semester 2/lab_2/task_1/build/CMakeFiles/3.30.4/CMakeRCCompiler.cmake
+C:/GitHub/c++_labs/semester 2/lab_2/task_1/build/CMakeFiles/3.30.4/CMakeSystem.cmake
+C:/Programs/share/cmake-3.30/Modules/CMakeCInformation.cmake
+C:/Programs/share/cmake-3.30/Modules/CMakeCXXInformation.cmake
+C:/Programs/share/cmake-3.30/Modules/CMakeCommonLanguageInclude.cmake
+C:/Programs/share/cmake-3.30/Modules/CMakeGenericSystem.cmake
+C:/Programs/share/cmake-3.30/Modules/CMakeInitializeConfigs.cmake
+C:/Programs/share/cmake-3.30/Modules/CMakeLanguageInformation.cmake
+C:/Programs/share/cmake-3.30/Modules/CMakeRCInformation.cmake
+C:/Programs/share/cmake-3.30/Modules/CMakeSystemSpecificInformation.cmake
+C:/Programs/share/cmake-3.30/Modules/CMakeSystemSpecificInitialize.cmake
+C:/Programs/share/cmake-3.30/Modules/Compiler/CMakeCommonCompilerMacros.cmake
+C:/Programs/share/cmake-3.30/Modules/Compiler/MSVC-C.cmake
+C:/Programs/share/cmake-3.30/Modules/Compiler/MSVC-CXX.cmake
+C:/Programs/share/cmake-3.30/Modules/Compiler/MSVC.cmake
+C:/Programs/share/cmake-3.30/Modules/Platform/Windows-Initialize.cmake
+C:/Programs/share/cmake-3.30/Modules/Platform/Windows-MSVC-C.cmake
+C:/Programs/share/cmake-3.30/Modules/Platform/Windows-MSVC-CXX.cmake
+C:/Programs/share/cmake-3.30/Modules/Platform/Windows-MSVC.cmake
+C:/Programs/share/cmake-3.30/Modules/Platform/Windows.cmake
+C:/Programs/share/cmake-3.30/Modules/Platform/WindowsPaths.cmake
